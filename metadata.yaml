@@ -1,0 +1,25 @@
+_repo: A-Brief-History-of-the-Worshipful-Company-of-Ironmongers-London-AD-1351-1889-With-an-Appendix__60091
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Noble, T. C. (Theophilus Charles)
+    alias: Noble, Theophilus Charles
+    gutenberg_agent_id: '50787'
+    url: http://www.gutenberg.org/2009/agents/50787
+description: ''
+gutenberg_issued: '2019-08-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60091'
+  lccn: '10023056'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HD'
+- !lcsh 'Worshipful Company of Ironmongers (London, England) -- History'
+- GITenberg
+title: "A Brief History of the Worshipful Company of Ironmongers, London A.D. 1351-1889\r\
+  \nWith an Appendix Containing Some Account of the Blacksmiths' Company"
+url: http://www.gutenberg.org/ebooks/60091
