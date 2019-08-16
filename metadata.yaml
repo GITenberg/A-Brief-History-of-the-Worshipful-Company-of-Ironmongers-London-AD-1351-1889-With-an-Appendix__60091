@@ -1,5 +1,8 @@
 _repo: A-Brief-History-of-the-Worshipful-Company-of-Ironmongers-London-AD-1351-1889-With-an-Appendix__60091
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 60091-h/images/cover.jpg
 creator:
   author:
     agent_name: Noble, T. C. (Theophilus Charles)
@@ -7,6 +10,8 @@ creator:
     gutenberg_agent_id: '50787'
     url: http://www.gutenberg.org/2009/agents/50787
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60091#A-Brief-History-of-the-Worshipful-Company-of-Ironmongers-London-AD-1351-1889-With-an-Appendix_
 gutenberg_issued: '2019-08-12'
 gutenberg_type: Text
 identifiers:
